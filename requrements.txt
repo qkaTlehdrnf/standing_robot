@@ -1,0 +1,8 @@
+torch
+torchvision
+gym
+
+numpy
+matplotlib
+pillow
+ipykernel
