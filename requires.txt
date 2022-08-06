@@ -1,0 +1,11 @@
+# pytorch -c pytorch-nightly
+# conda install pytorch -c pytorch-nightly torchvision torchaudio 
+# conda install -c pytorch torchaudio
+
+torchvision
+gym
+
+numpy
+matplotlib
+pillow
+ipykernel
